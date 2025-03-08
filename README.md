@@ -16,7 +16,16 @@ A **real-time expense tracking** web application built with the **MERN stack** (
 - **Database:** MongoDB  
 - **Authentication:** JWT (JSON Web Token)  
 - **State Management:** Context API/Redux  
-- **Storage:** MongoDB GridFS / Cloud Storage  
+- **Storage:** MongoDB GridFS / Cloud Storage
+## ScreenShots 🧑‍🎓
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/fde3110e-40c6-401d-a63f-dc38aa9425e5" />
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/15039918-8e2d-40f3-83d5-dc2909495ec3" />
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/b92974ad-ebfb-4dfb-8e4e-6e70d5126d71" />
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/0f3adf5b-d4d6-4a79-a5b7-893859718f36" />
+
+
+
+
 
 
 
