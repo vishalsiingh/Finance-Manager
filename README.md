@@ -1,7 +1,7 @@
 
  # Personal Finance Manager 💰🚀  
 A **real-time expense tracking** web application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) to help users manage their finances efficiently.  
-live link --- genuine-pie-297f31.netlify.app
+ live link - genuine-pie-297f31.netlify.app
 ## Features ✨  
 - **Real-time expense tracking** (Add, Edit, Delete, View)  
 - **User authentication & security** (JWT-based authentication)  
